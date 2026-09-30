@@ -1,0 +1,9 @@
+# Configuration d'EU4score
+# copier ce fichier en config.yaml.
+
+# Dossier où EU4 écrit ses sauvegardes.
+# ~ désigne le dossier de l'utilisateur (C:\Users\<nom>).
+save_dir: "~/Documents/Paradox Interactive/Europa Universalis IV/save games"
+
+# Nom du fichier d'autosave
+autosave_file: "mp_autosave.eu4"

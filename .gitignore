@@ -1,5 +1,8 @@
 # Sauvegardes EU4 d'exemple (trop lourdes pour Git)
 samples/
 
+# Configuration propre à chaque machine (modèle : config.example.yaml)
+config.yaml
+
 # Dossier de compilation Rust (lourd et régénéré par cargo build)
 eu4-parser/target/
