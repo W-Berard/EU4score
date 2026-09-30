@@ -1,0 +1,5 @@
+# Sauvegardes EU4 d'exemple (trop lourdes pour Git)
+samples/
+
+# Dossier de compilation Rust (lourd et régénéré par cargo build)
+eu4-parser/target/
