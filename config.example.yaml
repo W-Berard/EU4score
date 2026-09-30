@@ -7,3 +7,15 @@ save_dir: "~/Documents/Paradox Interactive/Europa Universalis IV/save games"
 
 # Nom du fichier d'autosave
 autosave_file: "mp_autosave.eu4"
+
+# Dossier où sont archivées les saves et leurs JSON (relatif au projet).
+data_dir: "data"
+
+# Exécutable du parser Rust (relatif au projet).
+parser_path: "eu4-parser/target/release/eu4-parser.exe"
+
+# Secondes entre deux vérifications de l'autosave.
+poll_interval: 5
+
+# Secondes sans changement du fichier pour considérer son écriture terminée.
+stable_delay: 3

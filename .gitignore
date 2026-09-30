@@ -6,3 +6,10 @@ config.yaml
 
 # Dossier de compilation Rust (lourd et régénéré par cargo build)
 eu4-parser/target/
+
+# Archive des saves, JSON et journal générés par l'application
+data/
+
+# Fichiers générés par Python et pytest
+__pycache__/
+.pytest_cache/
